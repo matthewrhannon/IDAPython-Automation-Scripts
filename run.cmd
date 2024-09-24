@@ -1,0 +1,1 @@
+socat.exe -s -dd tcp4-listen:12345,fork,reuseaddr openssl:lumen.abda.nl:1235,cafile=C:/IDA_Pro_8.3_Altered/hexrays.crt
